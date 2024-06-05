@@ -16,7 +16,7 @@ function About() {
 					id="introduction"
 					className="md:col-span-2 flex flex-col space-y-12 items-center md:items-start max-w-prose"
 				>
-					<h2 className="font-ubuntu text-lg ">About Me</h2>
+					<h2 className="font-ubuntu text-xl ">About Me</h2>
 					<p className="text-left font-nanum max-w-lg">
 						Hi! I'm frontend developer. "Lorem ipsum dolor sit amet, consectetur
 						adipiscing elit, sed do eiusmod tempor incididunt ut labore et
