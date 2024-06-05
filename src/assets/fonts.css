@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "Ubuntu-Bold";
+	src: url("../assets/fonts/Ubuntu-Bold.ttf") format("truetype");
+	font-display: auto;
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "NanumGothic-Bold";
+	src: url("../assets/fonts/NanumGothic-Bold.ttf") format("truetype");
+	font-display: auto;
+	font-style: normal;
+	font-weight: 400;
+}
+body {
+  /* font-family: 'Ubuntu-Bold', sans-serif; */
+  color: #101720;
+}
