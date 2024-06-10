@@ -11,7 +11,7 @@ function Career() {
 				</div>
 				<div className="container grid md:grid-cols-3 gap-8 items-center mb-4">
 					<div className="md:col-start-2">
-						<h2 className=" font-ubuntu text-xl py-2">Experience</h2>
+						<h2 className="font-ubuntu text-xl py-2">Experience</h2>
 					</div>
 				</div>
 				<div className="container grid md:grid-cols-3 gap-4 md:gap-8 mb-16">

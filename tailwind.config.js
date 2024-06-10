@@ -20,6 +20,9 @@ module.exports = {
 				ubuntu: ["Ubuntu-Bold", "sans-serif"],
 				nanum: ["NanumGothic-Bold", "sans-serif"],
 			},
+			colors: {
+				orange: "#F17829",
+			}
 		},
 	},
 	plugins: [],
