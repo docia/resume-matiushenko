@@ -22,7 +22,9 @@ module.exports = {
 			},
 			colors: {
 				orange: "#F17829",
-			}
+			},
+			
+			
 		},
 	},
 	plugins: [],

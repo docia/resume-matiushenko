@@ -1,6 +1,8 @@
+
+
 function Career() {
 	return (
-		<section className="flex flex-col items-center  min-h-screen">
+		<section className="flex flex-col items-center  min-h-screen py-16">
 			<div className="relative">
 				<div className="absolute inset-0">
 					<div className="container grid md:grid-cols-3 gap-8 items-center h-full">
